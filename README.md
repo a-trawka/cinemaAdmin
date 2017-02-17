@@ -3,4 +3,4 @@ Simple **Cinema Administrator** cli app. Just some **old** project for school as
 
 By writing this short program, I have learned basics of Java.
 
-- Java, Swing, OracleDB
+- Java + OracleDB (jdbc)
